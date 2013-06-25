@@ -4,7 +4,7 @@ CSS Helpers
 CSS Helpers is a library with some useful CSS Helpers.
 
 
-<strong>Available helpers</strong>
+#### Available helpers
 
 | Class        | Functionality           |
 | ------------- |-------------|
