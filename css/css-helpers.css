@@ -9,6 +9,8 @@
 *
  ***************************************************************************************/
 
+/**** Floating ****/
+
  .ch-float-left
  {
  	float: left;
@@ -32,6 +34,9 @@
 	}
 }
 
+
+/**** Text align ****/
+
  .ch-text-left
  {
  	text-align: left;
@@ -47,6 +52,8 @@
  	text-align: right;
  }
 
+
+/**** Margins & Paddings ****/
  .ch-center
  {
  	margin: 0px auto;
