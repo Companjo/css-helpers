@@ -75,7 +75,19 @@
 .ch-text-white {	color: #fff; }
 .ch-text-yellow {	color: #ff0; }
 .ch-text-blue {		color: #00f; }
-.ch-text-green{		color: #0f0; }
-.ch-text-purple{	color: #f0f; }
-.ch-text-orange{	color: #fc0; }
-.ch-text-grey{		color: #c0c0c0; }
+.ch-text-gree {		color: #0f0; }
+.ch-text-purple {	color: #f0f; }
+.ch-text-orange {	color: #fc0; }
+.ch-text-grey {		color: #c0c0c0; }
+
+/**** Background colors ****/
+.ch-bg-red {	background-color: #f00; }
+.ch-bg-black {	background-color: #000; }
+.ch-bg-white {	background-color: #fff; }
+.ch-bg-yellow {	background-color: #ff0; }
+.ch-bg-blue {	background-color: #00f; }
+.ch-bg-green {	background-color: #0f0; }
+.ch-bg-purple {	background-color: #f0f; }
+.ch-bg-orange {	background-color: #fc0; }
+.ch-bg-grey {	background-color: #c0c0c0; }
+
