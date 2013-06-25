@@ -32,3 +32,16 @@ CSS Helpers is a library with some useful CSS Helpers.
 | .ch-text-purple | Purple color |
 | .ch-text-orange | Orange color |
 | .ch-text-grey | Grey color |
+
+###### Background colors
+| Class        | Functionality           |
+| ------------- |-------------|
+| .ch-bg-red | Red background color |
+| .ch-bg-black | Black background color |
+| .ch-bg-white | White background color |
+| .ch-bg-yellow | Yellow background color |
+| .ch-bg-blue | Blue background color |
+| .ch-bg-green | Green background color |
+| .ch-bg-purple | Purple background color |
+| .ch-bg-orange | Orange background color |
+| .ch-bg-grey | Grey background color |
