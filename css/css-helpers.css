@@ -1,0 +1,63 @@
+/***************************************************************************************
+*
+*	CSS Helpers
+* 	Author: Yassin Akhachab
+*	W: www.yassinakhachab.com
+*	Version: 1.0
+*	Last update: 2013-06-25
+*	Github project: https://github.com/Companjo/css-helpers
+*
+ ***************************************************************************************/
+
+ .ch-float-left
+ {
+ 	float: left;
+ }
+
+ .ch-float-left
+ {
+ 	float: right;
+ }
+
+.ch-clearfix
+{
+	*zoom: 1;
+	&:before,
+	&:after {
+		display: table;
+		content: "";
+	}
+	&:after {
+		clear: both;
+	}
+}
+
+ .ch-text-left
+ {
+ 	text-align: left;
+ }
+
+ .ch-text-center
+ {
+ 	text-align: center;
+ }
+
+ .ch-text-right
+ {
+ 	text-align: right;
+ }
+
+ .ch-center
+ {
+ 	margin: 0px auto;
+ }
+
+ .ch-no-margin
+ {
+ 	margin: 0px;
+ }
+
+ .ch-no-padding
+ {
+ 	padding: 0px;
+ }
