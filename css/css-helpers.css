@@ -68,3 +68,13 @@
  {
  	padding: 0px;
  }
+
+/**** Text colors ****/
+.ch-text-red {		color: #f00; }
+.ch-text-black {	color: #000; }
+.ch-text-white {	color: #fff; }
+.ch-text-yellow {	color: #ff0; }
+.ch-text-blue {		color: #00f; }
+.ch-text-green{		color: #0f0; }
+.ch-text-purple{	color: #f0f; }
+.ch-text-grey{		color: #c0c0c0; }
