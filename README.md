@@ -1,6 +1,6 @@
 CSS Helpers
 ===========
-##### Version 1.0
+##### Version 1.1
 
 CSS Helpers is a library with some useful CSS Helpers.
 
