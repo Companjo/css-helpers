@@ -1,6 +1,6 @@
 /***************************************************************************************
 *
-*   CSS Helpers
+*       CSS Helpers
 * 	Author: Yassin Akhachab
 *	W: www.yassinakhachab.com
 *	Version: 1.1
@@ -8,4 +8,7 @@
 *	Github project: https://github.com/Companjo/css-helpers
 *
  ***************************************************************************************/
+
+
+
 .ch-float-left{float:left}.ch-float-right{float:right}.ch-clearfix{*zoom:1;&:before,&:after{display:table;content:""}&:after{clear:both}}.ch-text-left{text-align:left}.ch-text-center{text-align:center}.ch-text-right{text-align:right}.ch-center{margin:0 auto}.ch-no-margin{margin:0}.ch-no-padding{padding:0}.ch-text-red{color:red}.ch-text-black{color:#000}.ch-text-white{color:#fff}.ch-text-yellow{color:#ff0}.ch-text-blue{color:#00f}.ch-text-green{color:#0f0}.ch-text-purple{color:#f0f}.ch-text-orange{color:#fc0}.ch-text-grey{color:silver}.ch-bg-red{background-color:red}.ch-bg-black{background-color:#000}.ch-bg-white{background-color:#fff}.ch-bg-yellow{background-color:#ff0}.ch-bg-blue{background-color:#00f}.ch-bg-green{background-color:#0f0}.ch-bg-purple{background-color:#f0f}.ch-bg-orange{background-color:#fc0}.ch-bg-grey{background-color:silver}.ch-radius-3{border-radius:3px}.ch-radius-5{border-radius:5px}.ch-radius-8{border-radius:8px}.ch-radius-10{border-radius:10px}.ch-radius-15{border-radius:15px}.ch-radius-20{border-radius:20px}.ch-radius-25{border-radius:25px}.ch-radius-30{border-radius:30px}.ch-radius-50{border-radius:50px}.ch-radius-75{border-radius:75px}.ch-radius-100{border-radius:100px}.ch-radius-250{border-radius:250px}.ch-radius-400{border-radius:400px}.ch-radius-500{border-radius:500px}
