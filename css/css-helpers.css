@@ -91,3 +91,18 @@
 .ch-bg-orange {	background-color: #fc0; }
 .ch-bg-grey {	background-color: #c0c0c0; }
 
+/*** Border radius ***/
+.ch-radius-3 {		border-radius: 3px; }
+.ch-radius-5 {		border-radius: 5px ; }
+.ch-radius-8 {		border-radius: 8px; }
+.ch-radius-10 {		border-radius: 10px; }
+.ch-radius-15 {		border-radius: 15px; }
+.ch-radius-20 {		border-radius: 20px; }
+.ch-radius-25 {		border-radius: 25px; }
+.ch-radius-30 {		border-radius: 30px; }
+.ch-radius-50 {		border-radius: 50px; }
+.ch-radius-75 {		border-radius: 75px; }
+.ch-radius-100 {	border-radius: 100px; }
+.ch-radius-250 {	border-radius: 250px; }
+.ch-radius-400 {	border-radius: 400px; }
+.ch-radius-500 {	border-radius: 500px; }
