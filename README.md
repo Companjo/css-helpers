@@ -45,3 +45,21 @@ CSS Helpers is a library with some useful CSS Helpers.
 | .ch-bg-purple | Purple background color |
 | .ch-bg-orange | Orange background color |
 | .ch-bg-grey | Grey background color |
+
+###### Border radius
+| Class        | Functionality           |
+| ------------- |-------------|
+| .ch-radius-3 | Border radius 3px |
+| .ch-radius-5 | Border radius 5px |
+| .ch-radius-8 | Border radius 8px |
+| .ch-radius-10 | Border radius 10px |
+| .ch-radius-15 | Border radius 15px |
+| .ch-radius-20 | Border radius 20px |
+| .ch-radius-25 | Border radius 25px |
+| .ch-radius-30 | Border radius 30px |
+| .ch-radius-50 | Border radius 50px |
+| .ch-radius-75 | Border radius 75px |
+| .ch-radius-100 | Border radius 100px |
+| .ch-radius-250 | Border radius 250px |
+| .ch-radius-400 | Border radius 400px |
+| .ch-radius-500 | Border radius 500px |
